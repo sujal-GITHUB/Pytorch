@@ -5,10 +5,15 @@
 ### Features
 
 Neural Network Models: Implementation of fully connected neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more.
+
 Custom Layers and Modules: How to build custom layers and models using PyTorch.
+
 Data Loading and Preprocessing: Handling datasets, data augmentation, and transformations.
+
 Training Loops: Efficient training, validation, and testing loops, including backpropagation and optimization.
+
 GPU Support: Leveraging CUDA for faster computations.
+
 Model Evaluation and Visualization: Accuracy tracking, loss curves, and confusion matrix generation.
 
 ### Technologies Used
